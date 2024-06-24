@@ -1,8 +1,8 @@
 aiofiles==23.1.0
-fastapi==0.95.2
+fastapi==0.109.1
 gradio_client==0.2.5
-gradio==3.33.1
-pydantic==1.10.12
+gradio==4.36.1
+pydantic==1.10.13
 
 accelerate==0.23.*
 colorama
@@ -18,7 +18,7 @@ Pillow>=9.5.0
 pyyaml
 requests
 safetensors==0.3.2
-transformers==4.33.*
+transformers==4.41.*
 scipy
 sentencepiece
 tensorboard
